@@ -1,1 +1,1 @@
-# Peop0le-Counting-in-queue
+# People-Counting-in-queue
